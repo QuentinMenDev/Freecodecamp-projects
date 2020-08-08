@@ -40,19 +40,19 @@ Last update: 08/08/2020
 
 ### Data Visualization
 
- - Bar Chart
- - Scatterplot Grah
- - Heat Map
- - Choropleth Map
- - Treemap Diagram
+ - Bar Chart: [codepen.io](https://codepen.io/quentinmendev/full/LYpBBqp)
+ - Scatterplot Grah: [codepen.io](https://codepen.io/quentinmendev/full/abvxygK)
+ - Heat Map: [codepen.io](https://codepen.io/quentinmendev/full/bGVJZrK)
+ - Choropleth Map: [codepen.io](https://codepen.io/quentinmendev/full/xxwNxrG)
+ - Treemap Diagram: [codepen.io](https://codepen.io/quentinmendev/full/bGVyowE)
 
 ### APIs and Microservices
 
- - Timestamp Microservice
- - Request Header Parser Microservice
- - URL Shortener Microservice
- - Exercise Tracker
- - File Metadata Microservice
+ - Timestamp Microservice: [glitch.com](https://freecodecamp-timestamp-microservicer.glitch.me/)
+ - Request Header Parser Microservice: [glitch.com](https://freecodecamp-header-parser.glitch.me/)
+ - URL Shortener Microservice: [glitch.com](https://freecodecamp-url-shortener-micro.glitch.me/)
+ - Exercise Tracker: [glitch.io](https://freecodecamp-ex-tracker.glitch.me/)
+ - File Metadata Microservice: [glitch.com](https://freecodecamp-file-metadata.glitch.me/)
 
 ### Quality Assurance
 
