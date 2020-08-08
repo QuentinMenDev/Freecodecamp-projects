@@ -16,27 +16,27 @@ Last update: 08/08/2020
 ## Web Development
 ### Responsive Web Design
 
- - Tribute Page
- - Survey Form
- - Profuct Landing Page
- - Technical Documentation Page
- - Personal Portfolio Webpage
+ - Tribute Page: [codepen.io](https://codepen.io/quentinmendev/full/abOeaLQ)
+ - Survey Form: [codepen.io](https://codepen.io/quentinmendev/full/abvKMLe)
+ - Profuct Landing Page: [codepen.io](https://codepen.io/quentinmendev/full/PoPBJNv)
+ - Technical Documentation Page: [codepen.io](https://codepen.io/quentinmendev/full/yLYqPwG)
+ - Personal Portfolio Webpage: [codepen.io](https://codepen.io/quentinmendev/full/gOajvNa)
 
 ### JavaScript Algorithms and Data Structures
 
- - Palindrome Checker
- - Roman Numeral Converter
- - Caesars Cipher
- - Telephone Number Validator
- - Cash Register
+ - Palindrome Checker: (available on github folder only)
+ - Roman Numeral Converter: (available on github folder only)
+ - Caesars Cipher: (available on github folder only)
+ - Telephone Number Validator: (available on github folder only)
+ - Cash Register: (available on github folder only)
 
 ### Front End Libraries
 
- - Random Quote Machine
- - Markdown Previewer
- - Drum Machine
- - JavaScript Calculator
- - Pomodoro Clock
+ - Random Quote Machine: [codepen.io](https://codepen.io/quentinmendev/full/eYpQBbz)
+ - Markdown Previewer: [codepen.io](https://codepen.io/quentinmendev/full/xxwQMdO)
+ - Drum Machine: [codepen.io](https://codepen.io/quentinmendev/full/qBOQvEV)
+ - JavaScript Calculator: [codepen.io](https://codepen.io/quentinmendev/full/KKdJxGX)
+ - Pomodoro Clock: [codepen.io](https://codepen.io/quentinmendev/full/vYNMLZQ)
 
 ### Data Visualization
 
