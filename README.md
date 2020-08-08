@@ -56,16 +56,16 @@ Last update: 08/08/2020
 
 ### Quality Assurance
 
- - Metric-Imperial Converter
- - Issue Tracker
- - Personal Library
+ - Metric-Imperial Converter: [glitch.com](https://freecodecamp-metric-imperial-converter.glitch.me/)
+ - Issue Tracker: [glitch.com](https://freecodecamp-issue-tracker-security-quality.glitch.me/)
+ - Personal Library: [glitch.com](https://freecodecamp-personal-library-security-quality.glitch.me/)
  - ~~Sudoku Solver~~ (in progress)
  - ~~American British Translator~~ (in progress)
 
 ## Python
 ### Scientific Computing with Python
 
- - Arithmetic Formatter
+ - Arithmetic Formatter: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-arithmetic-arranger)
  - Time Calculator
  - Budget App
  - Polygon Area Calculator
