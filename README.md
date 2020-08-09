@@ -66,25 +66,25 @@ Last update: 08/08/2020
 ### Scientific Computing with Python
 
  - Arithmetic Formatter: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-arithmetic-arranger)
- - Time Calculator
- - Budget App
- - Polygon Area Calculator
- - Probability Calculator
+ - Time Calculator: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-time-calculator)
+ - Budget App: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-budget-app)
+ - Polygon Area Calculator: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-shape-calculator)
+ - Probability Calculator: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-probability-calculator)
 
 ### Data Analysis with Python
 
- - Mean-Variance-Standard Deviation Calculator
- - Demographic Data Visualizer
- - Medical Data Visualizer
- - Page View Time Series Visualizer
- - Sea Level Predictor
+ - Mean-Variance-Standard Deviation Calculator: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-mean-var-std)
+ - Demographic Data Visualizer: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-demographic-data-analyzer)
+ - Medical Data Visualizer: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-medical-data-visualizer)
+ - Page View Time Series Visualizer: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-time-series-visualizer)
+ - Sea Level Predictor: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-sea-level-predictor)
 
 ### Information Security
 
- - Stock Price Checker
- - Anonymous Message Board
- - Port Scanner
- - SHA-1 Password Checker
+ - Stock Price Checker: [glitch.com](https://freecodecamp-stock-price-checker-security-quality.glitch.me/)
+ - Anonymous Message Board: [glitch.com](https://freecodecamp-anonymous-message-board.glitch.me/)
+ - Port Scanner: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-port-scanner)
+ - SHA-1 Password Checker: [repl.it](https://repl.it/@QuentinMENNECAR/fcc-brute-force-password-cracker)
  - ~~Secure Real Time Multiplayer Game~~ (in progress)
 
 ### ~~Machine Learning with Python~~ (in progress)
