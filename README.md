@@ -1,6 +1,8 @@
 # Freecodecamp Projects
 
-This repo contain the entirety of the projects I've been making for the Freecodecamp certificatications acquisition. They are organised in folders corresponding to the certification they have been made for. Some of the projects will be present in multiple certifications as they were made for legacy ones.
+This repo contain the entirety of the projects I've been making for the Freecodecamp certificatications acquisition. They are organised in folders corresponding to the certification they have been made for.
+Each certification folders contains a README file describing problems found in the projects description.
+Each project forlders contains a README file describing the development process and explaining some bloc of code that might be difficult to get from the course alone.
 It is possble that there will be multiple versions of a project, each version trying to achieve a specific aim like:
  - Own fastest way to write a project
  - Shortest amount of lines (with proper linting)
@@ -18,7 +20,7 @@ Last update: 08/08/2020
 
  - Tribute Page: [codepen.io](https://codepen.io/quentinmendev/full/abOeaLQ)
  - Survey Form: [codepen.io](https://codepen.io/quentinmendev/full/abvKMLe)
- - Profuct Landing Page: [codepen.io](https://codepen.io/quentinmendev/full/PoPBJNv)
+ - Product Landing Page: [codepen.io](https://codepen.io/quentinmendev/full/PoPBJNv)
  - Technical Documentation Page: [codepen.io](https://codepen.io/quentinmendev/full/yLYqPwG)
  - Personal Portfolio Webpage: [codepen.io](https://codepen.io/quentinmendev/full/gOajvNa)
 
