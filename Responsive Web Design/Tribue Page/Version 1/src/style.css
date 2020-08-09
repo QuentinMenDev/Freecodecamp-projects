@@ -1,0 +1,41 @@
+body {
+  font-family: Roboto;
+}
+
+main {
+  text-align: center;
+}
+
+#img-div {
+  margin: auto
+  width: 80%;
+}
+
+@media (max-width: 600px) {
+  #img-div {
+    width: 90%;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+@media (max-width: 600px) {
+  img {
+    width: 90%;
+  }
+}
+
+#img-caption {
+  margin: 10px 10px;
+}
+
+#tribute-info {
+  padding-top: 20px;
+  width: 80%;
+  margin: auto;
+}
