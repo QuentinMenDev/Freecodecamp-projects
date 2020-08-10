@@ -1,0 +1,93 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.3em;
+  transition: background-color .5s;
+  line-height: 1.5;
+}
+
+#navbar {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+#navbar a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+#navbar a:hover {
+  color: #f1f1f1;
+}
+
+#navbar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+  padding-left: 35px;
+  margin-left: 250px;
+}
+
+@media screen and (min-width: 1100px) {
+  .closebtn {visibility: hidden;}
+  .openBtn {visibility: hidden;}
+}
+
+@media screen and (max-height: 450px) {
+  #navbar {padding-top: 15px;}
+  #navbar a {font-size: 18px;}
+}
+
+header {
+  color: black;
+  margin: 10px;
+  font-size: 1.8em;
+  font-weight: thin;
+}
+
+code {
+  display: block;
+  text-align: left;
+  white-space: pre;
+  position: relative;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+section {
+  margin: 15px;
+  font-size: 0.96em;
+}
+
+section li {
+  margin: 15px 0px 0px 20px;
+}
+
+section p {
+  margin: 20px;
+}
+
+nav header {
+  color: grey;
+}
