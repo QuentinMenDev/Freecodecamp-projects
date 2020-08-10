@@ -1,0 +1,106 @@
+body { 
+  background-color: #292a2b;
+ }
+
+/* center the blockquote in the page */
+.quote-wrapper {
+   display: flex;
+   height: 100vh;
+   padding: 0 20px;
+}
+/* Blockquote main style */
+.quote-block {
+    position: relative;
+    font-family: 'Barlow Condensed', sans-serif;
+    max-width: 620px;
+    margin: 80px auto;
+    align-self: center;
+}
+
+/* Blockquote header */
+.quote-block h1 {
+    font-family: 'Abril Fatface', cursive;
+    position: relative; /* for pseudos */
+    color: #e74848;
+    font-size: 2.8rem;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0;
+    border: 2px solid #fff;
+    border: solid 2px;
+    border-radius:20px;
+    padding: 25px;
+}
+
+/* Blockquote right double quotes */
+.quote-block h1:after {
+    content:"";
+    position: absolute;
+    border: 2px solid #e74848;
+    border-radius: 0 50px 0 0;
+    width: 60px;
+    height: 60px;
+    bottom: -62px;
+    left: 50px;
+    border-bottom: none;
+    border-left: none;
+    z-index: 3; 
+}
+
+.quote-block h1:before {
+    content:"";
+    position: absolute;
+    width: 80px;
+    border: 6px solid #292a2b;
+    bottom: -3px;
+    left: 50px;
+    z-index: 2;
+}
+
+/* increase header size after 600px */
+@media all and (min-width: 600px) {
+    .quote-block h1 {
+        font-size: 3rem;
+        line-height: 1.2;
+   }
+
+}
+
+/* Blockquote subheader */
+.quote-block h4 {
+    position: relative;
+    color: #ffffff;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0;
+    padding-top: 15px;
+    z-index: 1;
+    margin-left:150px;
+    padding-left:12px;
+}
+
+ 
+.quote-block h4:first-letter {
+  margin-left:-12px;
+}
+
+.btn {
+  height: 40px;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #00acee;
+  outline: none;
+  font-size: 0.85em;
+  padding: 8px 18px 6px 18px;
+  margin-left: 30px;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.action {
+  background-color: #e74848;
+  margin-left: -10px;
+  margin-top: 10px;
+}
