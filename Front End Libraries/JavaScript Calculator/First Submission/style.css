@@ -1,0 +1,62 @@
+body {
+  background: dark-blue;
+  font-family: Roboto;
+}
+
+#app {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  width: 20%;
+  height: 75px;
+  font-size: 2em;
+  background: #3D405B;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background: #E07A5F;
+}
+
+.operator {
+  background: #F2CC8F;
+}
+
+.del {
+  background: #AC3939;
+}
+
+.ac {
+  background: #AC3939;
+}
+
+.execute {
+  background: #81B29A;
+}
+
+.display-area {
+  text-align: right;
+  background: #3D405B;
+  font-size: 1.5em;
+  color: #E07A5F;
+}
+.formula {
+  padding: 10px 5px 0px 0px;
+  color: #F4F1DE;
+}
+.display {
+  font-size: 1.75em;
+  padding: 10px 5px 10px 0px;
+}
+.disabled {
+  background: grey;
+  color: grey;
+}
+.disabled:hover {
+  background: grey;
+}
