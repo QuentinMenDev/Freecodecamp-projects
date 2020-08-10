@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - (freeCodeCamp) Responsive Web Design - Survey Form</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!-- 
+
+Hello Camper!
+
+For now, the test suite only works in Chrome! Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding! 
+
+- The freeCodeCamp Team 
+
+-->
+
+<div class="container">
+  <header class="header text-center">
+    <h1 id="title">This is a survey form</h1>
+    <p id="description">This survey form is a web design project for freeCodeCamp</p>
+  </header>
+  
+  <form id="survey-form">
+    <div class="group">
+      <label for="name" id="name-label">Name</label>
+      <input type="text" name="name" id="name" placeholder="Enter your name" required />
+    </div>
+    
+    <div class="group">    
+      <label for="email" id="email-label">Email</label>
+      <input type="email" name="email" id="email" placeholder="Enter your email" required />
+    </div>
+    
+    <div class="group">    
+      <label for="number" id="number-label">Age</label>
+      <input type="number" name="number" id="number" placeholder="Enter your age" required min="12" max="120" />
+    </div>
+    
+    <div class="group">    
+      <label for="number" id="number-label">This is a label for the selection area</label>
+      <select id="dropdown">
+        <option disabled selected value>Please select an option</option>
+        <option value="option1">Option 1</option>
+        <option value="option2">Option 2</option>
+        <option value="option3">Option 3</option>
+      </select>
+    </div>
+    
+    <div class="group">
+      <p>This is a label for the radio area</p>
+      <label>
+        <input class="radio" name="radio" value="radio1" type="radio" checked />Radio 1
+      </label>
+      <label>
+        <input class="radio" name="radio" value="radio2" type="radio" checked />Radio 2
+      </label>
+      <label>
+        <input class="radio" name="radio" value="radio3" type="radio" checked />Radio 3
+      </label>
+    </div>
+    
+    <div class="group">
+      <p>This is a label for the checkbox area</p>
+      <label>
+        <input class="checkbox" name="check1" value="check1" type="checkbox" />Checkbox 1
+      </label>
+      <label>
+        <input class="checkbox" name="check2" value="check2" type="checkbox" />Checkbox 2
+      </label>
+      <label>
+        <input class="checkbox" name="check3" value="check3" type="checkbox" />Checkbox 3
+      </label>
+    </div>
+    
+    <div class="group">
+      <textarea class="textarea" name="comment" placeholder="If you have any coments, write them here"></textarea>
+    </div>
+    
+    <div>
+      <button type="submit" id="submit" class="submit-button" >
+        Submit
+      </button>
+    </div>
+  </form>
+</div>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
