@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+authors = ["Quentin Mennecart <quentin.mennecart@gmail.com>"]
+description = "Sea level predictor - Freecodecamp Python certification"
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+pandas = "*"
+python = "^3.8"
+scipy = "*"
