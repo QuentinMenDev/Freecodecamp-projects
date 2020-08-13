@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+authors = ["Quentin Mennecart <quentin.mennecart@gmail.com>"]
+name = "root"
+description = "Medical data visualizer - Freecodecamp Python certification"
+version = "0.0.1"
+[tool.poetry.dependencies]
+pandas = "*"
+python = "^3.8"
+seaborn = "*"
