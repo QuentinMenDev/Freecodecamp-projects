@@ -31,16 +31,16 @@ Last update: 08/08/2020
 ## Web Development
 ### Responsive Web Design
 
- - Tribute Page: 
-	 - First submision: [codepen.io](https://codepen.io/quentinmendev/full/abOeaLQ)
+ - [Tribute Page](https://github.com/QuentinMenDev/Freecodecamp-projects/tree/master/Responsive%20Web%20Design/Tribue%20Page): 
+	 - First submision: [github](https://github.com/QuentinMenDev/Freecodecamp-projects/tree/master/Responsive%20Web%20Design/Tribue%20Page/First%20Submission) / [codepen.io](https://codepen.io/quentinmendev/full/abOeaLQ)
  - Survey Form: 
-	 - First submision: [codepen.io](https://codepen.io/quentinmendev/full/abvKMLe)
- - Profuct Landing Page: 
-	 - First submision: [codepen.io](https://codepen.io/quentinmendev/full/PoPBJNv)
+	 - First submision: [github](https://github.com/QuentinMenDev/Freecodecamp-projects/tree/master/Responsive%20Web%20Design/Survey%20Form/First%20Submission) / [codepen.io](https://codepen.io/quentinmendev/full/abvKMLe)
+ - Product Landing Page: 
+	 - First submision: [github](https://github.com/QuentinMenDev/Freecodecamp-projects/tree/master/Responsive%20Web%20Design/Product%20Landing%20Page/First%20Submission) / [codepen.io](https://codepen.io/quentinmendev/full/PoPBJNv)
  - Technical Documentation Page: 
-	 - First submision: [codepen.io](https://codepen.io/quentinmendev/full/yLYqPwG)
+	 - First submision: [github](https://github.com/QuentinMenDev/Freecodecamp-projects/tree/master/Responsive%20Web%20Design/Technical%20Documentation%20Page/First%20Submission) / [codepen.io](https://codepen.io/quentinmendev/full/yLYqPwG)
  - Personal Portfolio Webpage: 
-	 - First submision: [codepen.io](https://codepen.io/quentinmendev/full/gOajvNa)
+	 - First submision: [github](https://github.com/QuentinMenDev/Freecodecamp-projects/tree/master/Responsive%20Web%20Design/Personal%20Portfolio%20Webpage/First%20Submission) / [codepen.io](https://codepen.io/quentinmendev/full/gOajvNa)
 
 ### JavaScript Algorithms and Data Structures
 
